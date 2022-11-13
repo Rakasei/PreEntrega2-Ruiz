@@ -1,2 +1,2 @@
-# PreEntrega1-Ruiz
-Primera pre-entrega del Proyecto Final
+# PreEntrega2-Ruiz
+Segunda pre-entrega del Proyecto Final
